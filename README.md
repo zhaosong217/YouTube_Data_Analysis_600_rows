@@ -1,6 +1,6 @@
 # YouTube_Data_Analysis_600_rows
 
-## **1. Excel Project:**
+## **Excel Project:**
 
 *Dataset Source:* 
 
